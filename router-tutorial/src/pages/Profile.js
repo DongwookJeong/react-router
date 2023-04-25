@@ -1,7 +1,7 @@
 import { useParams } from "react-router-dom";
 
 const data = {
-    velopert: {
+    jactor: {
         name: '정동욱',
         description: '리액트를 배우고 있는 개발자',
     },
